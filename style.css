@@ -8,7 +8,7 @@
 }
 
 :root {
-  --page-width: 8.5in;
+  --page-width: 9.5in;
   --page-height: 11in;
   --main-width: 6.4in;
   --sidebar-width: calc(var(--page-width) - var(--main-width));
@@ -380,4 +380,8 @@ h2 {
 }
 .logo-img-small {
   width: 10px;
+}
+
+.contact-info-blind{
+  background-color: #444;
 }
